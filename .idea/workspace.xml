@@ -2,6 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c77f00e-70d8-49dc-a068-8d77cb0dc4bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/classification/pt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/actions/infer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/actions/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/logger.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/models/bert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/models/rnns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/preprocess/data_iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/preprocess/data_split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/preprocess/feature_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/preprocess/generate_vocab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/preprocess/untitle_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/utils/h5util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/pt/utils/tokenizer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +38,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/classification/pt" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/classification/pt" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,11 +55,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586432461811</updated>
-      <workItem from="1586432468725" duration="221000" />
+      <workItem from="1586432468725" duration="863000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1816" y="128" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586433249214">
+      <screen x="-2560" y="-242" width="2560" height="1417" />
+    </state>
+    <state x="-1816" y="128" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-2560.-242.2560.1417@-2560.-242.2560.1417" timestamp="1586433249214" />
   </component>
 </project>
